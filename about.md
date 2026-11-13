@@ -18,9 +18,8 @@ We're the Cool Fire Sharks, a FIRST LEGO League Challenge team at Lansing Tech S
 
 ## This season
 
-Our Innovation Project is Ember, a remote-controlled robot that fights fires. It
-has a water cannon, a mist nozzle, and a blade for clearing away fuel, and it is
-driven from a safe distance with a remote controller.
+Our Innovation Project is Ember, a robot that fights fires with a water cannon
+and foam. It also has a mist nozzle and a blade for clearing away fuel.
 
 Watch our video on the [project design](/design/) page.
 

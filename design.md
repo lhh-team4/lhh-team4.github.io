@@ -9,8 +9,8 @@ schematic: /assets/images/schematic.mp4
 schematic_caption:
 ---
 
-Ember is our remote-controlled robot that fights fires at campsites. Ember's best
-trick: stopping fires before they start!
+Ember is our robot that fights fires at campsites. Ember's best trick: stopping
+fires before they start!
 
 <style>
   .design-figure { margin: 0 0 1rem; text-align: center; }
