@@ -9,8 +9,8 @@ schematic: /assets/images/schematic.mp4
 schematic_caption:
 ---
 
-How our robot works, in one picture and one video. Change this sentence to say
-what your design does and why you built it that way.
+Ember is our remote-controlled robot that fights fires at campsites. Ember's best
+trick: stopping fires before they start!
 
 <style>
   .design-figure { margin: 0 0 1rem; text-align: center; }
@@ -54,5 +54,11 @@ what your design does and why you built it that way.
 
 ## How it works
 
-Walk people through your design. A few ideas: what each part of the robot does,
-what problem it solves, what you tried first, and what you'd change next time.
+A fire needs heat, fuel, and oxygen. Ember takes them away:
+
+1. **Detect.** Ember detects a fire.
+2. **Remove fuel.** It plows a dirt ring to remove fuel.
+3. **Cool heat.** It uses the water cannon to cool the fire down.
+4. **Smother oxygen.** It blankets the base of the fire in foam to smother it.
+5. **Mist and patrol.** Ember goes back to its dock to recharge and refill with
+   water. Once recharged, it mists the campsite and clears away dead brush.
