@@ -3,22 +3,27 @@ title: About Our Team
 permalink: /about/
 ---
 
-Tell people who you are. A few ideas:
-
 ## Our team
 
-What's your team name and number? What program are you in — FLL Explore,
-FLL Challenge? How long has the team been around?
+We're the Cool Fire Sharks, a FIRST LEGO League Challenge team at Lansing Tech Studio.
 
 ## Our members
 
-- Name — what you work on
-- Name — what you work on
+- Judah
+- Oliver
+- Adalynn
+- Connor
+- Sam
+- Liam
 
 ## This season
 
-What's the challenge, and what are you trying to build?
+Our Innovation Project is a remote-controlled robot that fights fires. It has a
+water cannon, a mist nozzle, and a blade for clearing away fuel, and it is
+driven from a safe distance with a remote controller.
+
+Watch our video on the [project design](/design/) page.
 
 ## Our coaches
 
-Who helps your team out?
+Brendon, Chelsea, Ray, Catherine, Adam, Joe, and Gideon
